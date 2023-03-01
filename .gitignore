@@ -13,6 +13,8 @@ Backup of *.doc*
 # Excel Backup File
 *.xlk
 
+*.mat
+
 # PowerPoint temporary
 ~$*.ppt*
 
